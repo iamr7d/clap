@@ -1,0 +1,11 @@
+# Core requirements
+pyserial==3.5
+pillow==9.4.0  # Changed to a version with reliable pre-built wheels
+numpy==1.24.3
+pyqt5==5.15.9
+
+# Optional but recommended
+setuptools>=65.5.1
+wheel>=0.38.4
+
+soundcard
