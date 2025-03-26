@@ -39,8 +39,6 @@ This project implements a sound-responsive 10x10 LED matrix display that reacts 
 - Additional animation patterns
 - Voice command recognition
 
-## License
-[Specify license information]
 
 ## Contributors
 - R7D.
